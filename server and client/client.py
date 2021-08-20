@@ -1,4 +1,3 @@
-#255.255.255.0
 import socket
 import threading
 PORT=5050
